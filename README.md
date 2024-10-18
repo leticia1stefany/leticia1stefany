@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {lstefany}!
+## 💜 Olá, meu nome é stefany!
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI e estou em busca de oportunidades na área de tecnologia, com preferência por vagas home office. Tenho uma forte paixão por aprender e me desenvolver.
 
